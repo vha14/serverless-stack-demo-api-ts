@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.6",
+    "@types/node": "^8.10.6",
+    "@types/uuid": "^3.4.3",
+    "aws-sdk": "^2.259.1",
+    "serverless-webpack": "^5.1.5",
+    "ts-loader": "^4.4.1",
+    "typescript": "^2.9.2",
+    "webpack": "^4.12.0",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}

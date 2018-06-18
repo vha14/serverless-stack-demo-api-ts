@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "lib": [
+      "es6",
+      "es2015",
+      "es2016"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
