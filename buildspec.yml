@@ -1,0 +1,7 @@
+version: 1.0
+
+phases:
+  build:
+    commands:
+      - chmod +x build.sh
+      - ./build.sh deploy dev
